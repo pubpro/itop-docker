@@ -2,7 +2,7 @@ FROM phusion/baseimage
 MAINTAINER Vladimir Kunin <vladimir@knowitop.ru>
 
 ARG DEBIAN_FRONTEND=noninteractive
-ARG ITOP_VERSION=2.7.0-beta
+ARG ITOP_VERSION=2.6.3
 ARG ITOP_FILENAME=iTop-2.6.3-5092.zip
 
 RUN apt-get install -y software-properties-common \
