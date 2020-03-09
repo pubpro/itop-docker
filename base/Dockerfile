@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER Vladimir Kunin <vladimir@knowitop.ru>
+MAINTAINER Guoliang Zhou <coolzhouguoliang@163.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG ITOP_VERSION=2.6.3
